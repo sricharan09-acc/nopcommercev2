@@ -1,0 +1,97 @@
+2022-06-03 18:27:05,889 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 18:27:06,014 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 18:27:15,516 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 18:27:22,975 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 18:28:09,280 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 18:28:09,391 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 18:28:16,686 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 19:24:22,479 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 19:24:22,668 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 19:24:22,840 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 19:35:52,229 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 19:35:52,727 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 19:35:52,845 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:37:04,699 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 20:37:04,942 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 20:37:09,345 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:37:16,188 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 20:46:53,348 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 20:46:53,451 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 20:47:00,900 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:47:09,351 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 20:48:06,405 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 20:48:06,520 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 20:48:15,303 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:48:22,718 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 20:51:36,645 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 20:51:36,756 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 20:51:50,421 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:51:57,898 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 20:54:33,142 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 20:54:33,237 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 20:54:38,176 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 20:54:45,028 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:05:10,155 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:05:10,246 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:05:15,549 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:05:25,375 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:05:58,726 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:05:58,818 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:06:15,953 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:06:23,846 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:08:51,969 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:08:52,061 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:08:58,809 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:09:06,909 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:15:31,723 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:15:31,814 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:15:40,563 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:15:50,338 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:17:49,462 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:17:49,616 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:17:49,722 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:23:38,466 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:23:38,570 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:23:54,298 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:24:03,992 [TestNG-tests-2] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:29:48,853 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:29:49,014 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:29:49,121 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:32:25,686 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:32:25,856 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:32:25,962 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:33:25,873 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:33:26,043 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:33:31,397 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:33:38,085 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-03 21:37:09,146 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-03 21:37:09,306 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-03 21:37:13,863 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-03 21:37:22,745 [TestNG-tests-1] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-04 11:30:46,781 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-04 11:30:47,024 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-04 11:30:52,877 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-04 11:31:00,969 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-04 11:39:59,225 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-04 11:39:59,378 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-04 11:40:03,877 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-04 11:40:10,715 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-04 15:21:13,095 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-04 15:21:13,343 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-04 15:21:19,655 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-04 15:21:26,672 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-04 15:25:52,260 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-04 15:25:52,434 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-04 15:25:58,600 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-04 15:26:05,946 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-04 15:28:41,034 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-04 15:28:41,195 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-04 15:28:46,039 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-08 08:14:20,645 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-08 08:14:21,058 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-08 08:14:24,866 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-08 08:14:32,521 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
+2022-06-09 18:39:31,723 [main] INFO Testcases.TC_LoginTest_001 - User provided
+2022-06-09 18:39:32,262 [main] INFO Testcases.TC_LoginTest_001 - Password provided
+2022-06-09 18:39:38,344 [main] INFO Testcases.TC_LoginTest_001 - Login in Clicked
+2022-06-09 18:39:45,298 [main] INFO Testcases.TC_LoginTest_001 - Login Passed
